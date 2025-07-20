@@ -1,6 +1,6 @@
 # website-i-think
 
-This is an Open Sourced project for my website: https://codeddev.net
+This is an Open Sourced project for my website: https://codedisafish.com
 
 Feel free to use it and make your own.
 
